@@ -7,5 +7,5 @@ Here is the dependicies list bellow:
     
 body-parser,ejs,express,mongodb,mongoose,nodemon
 
-Link for github repository: 
-Link for heroku: 
+Link for github repository: https://github.com/wiut00012183/webtech-referall
+Link for heroku: https://education-centers.herokuapp.com/
